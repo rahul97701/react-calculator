@@ -6,9 +6,10 @@ function App() {
   return (
       
     <React.Fragment>
-  <DigitalCalculator />
+    
+        <DigitalCalculator />
       
-      </React.Fragment>  
+     </React.Fragment>  
   )
 }
 
